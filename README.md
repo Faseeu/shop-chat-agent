@@ -11,7 +11,25 @@ A Shopify template app that lets you embed an AI-powered chat widget on your sto
   - Create carts, add or remove items, and initiate checkout
   - Track orders and initiate returns
 
-## Developer Docs
+## Documentation & Learning
+
+This project includes extensive documentation to help you understand, deploy, and scale your AI Agent:
+
+### [Course: Building AI Agents for Shopify](./course/index.md)
+A 6-module deep dive into the code, architecture, and technology behind the agent.
+
+### Technical Deep Dives
+- [Architecture Overview](./docs/architecture_overview.md)
+- [Backend Analysis](./docs/backend_analysis.md)
+- [Frontend & Theme Extensions](./docs/frontend_analysis.md)
+- [Authentication & Security](./docs/auth_and_persistence.md)
+
+### Deployment & Usage Guides
+- [Multi-Store Deployment Guide](./guides/multi_store_deployment.md): Scaling for agencies.
+- [Customer Service Setup](./guides/customer_service_setup.md): Optimizing for support.
+- [Merchant Usage Guide](./guides/merchant_usage_guide.md): How store owners use the tool.
+
+## Developer Docs (Shopify Official)
 - Everything from installation to deep dives lives on https://shopify.dev/docs/apps/build/storefront-mcp.
 - Clone this repo and follow the instructions on the dev docs.
 
